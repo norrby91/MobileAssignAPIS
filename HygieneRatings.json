@@ -1,3 +1,4 @@
+Session.Request.Headers.Add("x-api-version", 2);
 {
   "establishments": [
     {
