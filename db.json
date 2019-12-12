@@ -1,0 +1,94 @@
+{
+  "establishments": [
+    {
+      "FHRSID": 1,
+      "LocalAuthorityBusinessID": "sample string 2",
+      "BusinessName": "sample string 3",
+      "BusinessType": "sample string 4",
+      "RatingValue": "sample string 5",
+      "RatingDate": "2019-12-11T15:19:45.9912848+00:00",
+      "links": [
+        {
+          "rel": "sample string 1",
+          "href": "sample string 2"
+        },
+        {
+          "rel": "sample string 1",
+          "href": "sample string 2"
+        },
+        {
+          "rel": "sample string 1",
+          "href": "sample string 2"
+        }
+      ]
+    },
+    {
+      "FHRSID": 1,
+      "LocalAuthorityBusinessID": "sample string 2",
+      "BusinessName": "sample string 3",
+      "BusinessType": "sample string 4",
+      "RatingValue": "sample string 5",
+      "RatingDate": "2019-12-11T15:19:45.9912848+00:00",
+      "links": [
+        {
+          "rel": "sample string 1",
+          "href": "sample string 2"
+        },
+        {
+          "rel": "sample string 1",
+          "href": "sample string 2"
+        },
+        {
+          "rel": "sample string 1",
+          "href": "sample string 2"
+        }
+      ]
+    },
+    {
+      "FHRSID": 1,
+      "LocalAuthorityBusinessID": "sample string 2",
+      "BusinessName": "sample string 3",
+      "BusinessType": "sample string 4",
+      "RatingValue": "sample string 5",
+      "RatingDate": "2019-12-11T15:19:45.9912848+00:00",
+      "links": [
+        {
+          "rel": "sample string 1",
+          "href": "sample string 2"
+        },
+        {
+          "rel": "sample string 1",
+          "href": "sample string 2"
+        },
+        {
+          "rel": "sample string 1",
+          "href": "sample string 2"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "dataSource": "sample string 1",
+    "extractDate": "2019-12-11T15:19:45.9912848+00:00",
+    "itemCount": 3,
+    "returncode": "sample string 4",
+    "totalCount": 5,
+    "totalPages": 6,
+    "pageSize": 7,
+    "pageNumber": 8
+  },
+  "links": [
+    {
+      "rel": "sample string 1",
+      "href": "sample string 2"
+    },
+    {
+      "rel": "sample string 1",
+      "href": "sample string 2"
+    },
+    {
+      "rel": "sample string 1",
+      "href": "sample string 2"
+    }
+  ]
+}
